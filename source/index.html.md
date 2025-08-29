@@ -45,7 +45,4 @@ meta:
   - name: description
     content: Documentation for the Kittn API
 
-<p align="center">
-  <img src="images/your-logo.png" alt="Your Company Logo" width="200">
-</p>
 ---
