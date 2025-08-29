@@ -2,17 +2,31 @@ name: Build and Deploy Slate
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: ruby/setup-ruby@v1
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.0
+        ruby-version: 3.1
         bundler-cache: true
-    - run: bundle exec middleman build
-    - uses: peaceiris/actions-gh-pages@v3
+        
+    - name: Install dependencies
+      run: |
+        gem install bundler
+        bundle install
+        
+    - name: Build site
+      run: bundle exec middleman build
+      
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
