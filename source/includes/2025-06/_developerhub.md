@@ -54,9 +54,8 @@ This guide provides step-by-step instructions for registering on the EasyParcel 
    
    Click on the **Sign Up**
    
-   <p align="center">
-   <img src="../8.Picture/%201.Developer%20Hub/login_page.png" alt="EasyParcel Login Page" style="width:80%; border:1px solid #ddd; border-radius:8px">
-   </p>
+   <img width="613" height="646" alt="image" src="https://github.com/user-attachments/assets/f5d9b21a-c283-4701-aba3-ffbb0cda8ded" />
+
    
   complete the registration form:
    - Full name
