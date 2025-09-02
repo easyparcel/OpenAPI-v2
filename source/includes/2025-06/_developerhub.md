@@ -110,9 +110,8 @@ To access the API, you need to create an application:
 
 1. In the Developer Hub dashboard, click on **Applications**
 2. Click **Create New Application**
-   <p align="center">
-  <img src="../8.Picture/ 1.Developer Hub/create_new_application.png" alt="Logo" style="width:80%">
-  </p>
+<img width="1175" height="192" alt="image" src="https://github.com/user-attachments/assets/ddb518b3-e6c5-4e46-82fb-34acc2d8a756" />
+
 4. Fill in the application details:
 
    - Application name
