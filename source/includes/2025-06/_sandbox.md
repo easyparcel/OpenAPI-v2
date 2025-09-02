@@ -38,59 +38,63 @@ refer here for [Sandbox Limitations](3.sandbox%20limitations.md)
 
 #### 1. Access Developer Portal
 **URL:** [https://api.easyparcel.com](https://api.easyparcel.com)  
-![Developer Portal Login](../8.Picture/%202.Create%20Sandbox/login_page.png "EasyParcel Developer Portal Login Interface")
+<img width="2560" height="1246" alt="image" src="https://github.com/user-attachments/assets/89a970a8-754f-4250-a1c4-a3e0c8617479" />
+
 
 
 #### 2. Select Application
 **Action:** Choose your registered application from the dashboard  
-![Application Selection](../8.Picture/%202.Create%20Sandbox/selectappsettings.png "Application Management Dashboard")
+<img width="2560" height="722" alt="image" src="https://github.com/user-attachments/assets/b30ce194-3b8d-4d90-9c2f-eb885bccb5ab" />
+
 
 
 #### 3. Navigate to Connections
 **Location:** Settings → Connection Management  
-![Connection List Interface](../8.Picture/%202.Create%20Sandbox/selectconnectionlist.png "Connection Configuration Section")
+<img width="1192" height="592" alt="image" src="https://github.com/user-attachments/assets/2a72d5f9-a706-423f-845c-4a5e6719898e" />
+
 
 
 #### 4. Add New Connection
 **Required:**  
 ✅ Sandbox environment selection  
 ✅ Connection name  
-![Add Connection Form](../8.Picture/%202.Create%20Sandbox/addconnection.png "New Connection Configuration Panel")
+<img width="2560" height="714" alt="image" src="https://github.com/user-attachments/assets/c8cb387a-1f2e-4cdc-b658-3bc1010938cc" />
+
 
 
 #### 5. Prompt to login
 **Required:**  
 Login using developers account credentials
-![image](https://github.com/user-attachments/assets/010d073d-f191-4225-813e-05d4f5f5e3e5)
+<img width="1232" height="1276" alt="image" src="https://github.com/user-attachments/assets/f97d0d40-6efd-4d97-a723-544e5cf70144" />
+
 
 
 #### 6. Allow access request
 **Required:**  
 Allow the application request to access account credentials and permisions
-![image](https://github.com/user-attachments/assets/c19a522f-ed20-4325-a0e0-d79f88180dac)
+<img width="1230" height="816" alt="image" src="https://github.com/user-attachments/assets/975ef6b7-f38d-403c-84cb-67e5b9ba88a5" />
 
 
-#### 8. Verify Successful Setup
+
+#### 7. Verify Successful Setup
 **Confirmation:** Look for active status indicator  
-![Demo Account Success](../8.Picture/%202.Create%20Sandbox/demo_acc_success.png "Successful Connection Creation Notification")
+<img width="2556" height="706" alt="image" src="https://github.com/user-attachments/assets/a128d3be-45f8-4827-a054-7e8f151dfdcc" />
+
 
 
 ## Top up demo account
 
 1. In the Application settings, connection list, select **Top Up**  
-   <p align="center">
-   <img src="../8.Picture/%202.Create%20Sandbox/Topup.png" style="width:80%; border-radius:50%">
-   </p>
+<img width="2538" height="746" alt="image" src="https://github.com/user-attachments/assets/9d5e7d15-67f0-41fc-a165-fc92bd99c947" />
+
 
 2. Top up the desired amount  
-   <p align="center">
-   <img src="../8.Picture/%202.Create%20Sandbox/topup.png" style="width:80%; border-radius:50%">
-   </p>
+<img width="2560" height="900" alt="image" src="https://github.com/user-attachments/assets/ab458b36-6b43-4b87-9f06-d13a6367ae69" />
+
 
 3. Top up successful  
-   <p align="center">
-   <img src="../8.Picture/%202.Create%20Sandbox/topupsuccess.png" style="width:80%; border-radius:50%">
-   </p>
+<img width="2560" height="744" alt="image" src="https://github.com/user-attachments/assets/5212a32d-903a-486a-a766-fc562a701e6c" />
+
 
 
 ## Sandbox Limitations
@@ -113,4 +117,4 @@ While the EasyParcel **sandbox environment** allows full API integration testing
 Use the sandbox for development and testing purposes. For real transactions and shipment tracking, switch to the production environment.
 
 ## Switching to live
-You wish to perform live order [live account](../7.References/9.Switching%20to%20live.md)
+You wish to perform live order [live account](#switching-to-live)
