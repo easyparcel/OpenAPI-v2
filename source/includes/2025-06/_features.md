@@ -53,38 +53,37 @@ graph TD
 
 ### Standard
   
-[Get Shipment Quotation](../5.API%20endpoint/%201.Shipping/1.Get%20Shipment%20Quotation.md)
+[Get Shipment Quotation](#shipment-quotations)
 
-[Coupon Listing](../5.API%20endpoint/%201.Shipping/2.Get%20Coupon%20List.md)
+[Coupon Listing](#coupon-feature)
 
-[Submit Shipment Order](../5.API%20endpoint/%201.Shipping/3.Submit%20Orders.md)
+[Submit Shipment Order](#submit-orders)
 
-[Get Shipment Listing](../5.API%20endpoint/%201.Shipping/4.Get%20Shipment%20Listing.md)
+[Get Shipment Listing](#shipment-listing)
 
-[Get Shipment Details](../5.API%20endpoint/%201.Shipping/6.Get%20Shipment%20details.md)
+[Get Shipment Details](#shipment-details)
 
-[Cancel Order](../5.API%20endpoint/%201.Shipping/5.Cancel%20Shipment.md)
+[Cancel Order](#cancel-shipments)
 
 
 
 ### OnDemand
 
-[Get OnDemand Quotation](../5.API%20endpoint/%202.Ondemand/1.Get%20Ondemand%20Quotation.md)
+[Get OnDemand Quotation](#ondmeand-quotation)
 
-[Coupon Listing](../5.API%20endpoint/%202.Ondemand/2.Get%20Ondemand%20Coupon%20List.md)
+[Coupon Listing](#ondemand-coupon)
 
-[Submit OnDemand Order](../5.API%20endpoint/%202.Ondemand/4.Submit%20Ondemand%20Order.md)
+[Submit OnDemand Order](#ondemand-order-submission)
 
-[Cancel OnDemand Order](../5.API%20endpoint/%202.Ondemand/3.Cancel%20Ondemand.md)
 
 
 ### Wallet
 
-[Get Wallet](3.Get%20Credit%20Wallet.md)
+[Get Wallet](#wallet-balance)
 
 
 ### Courier List
-[Courier Listing](4.Courier%20listing.md)
+[Courier Listing](#couriers-list)
 
 
 
