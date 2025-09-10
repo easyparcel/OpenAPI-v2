@@ -18,12 +18,11 @@ The EasyParcel **sandbox account** is a test environment designed for developers
 * QA and staging environments
 * Training or demonstrations
 
-For setup instructions, please refer to the [Setup Sandbox Environment](1.Setup%20Demo%20Account.md) guide.
 
-For top up test credits instructions, please refer to the [Top up Sandbox Credit](2.top%20up%20sandbox%20credit.md) guide.
+For top up test credits instructions, please refer to the [Top up Sandbox Credit](#top-up-demo-account) guide.
 
 Sandbox Limitation:
-refer here for [Sandbox Limitations](3.sandbox%20limitations.md) 
+refer here for [Sandbox Limitations](#sandbox-limitations) 
 
 
 ## Demo Account Setup Guide
