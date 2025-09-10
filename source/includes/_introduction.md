@@ -53,8 +53,8 @@ EasyParcel uses **OAuth 2.0** for secure authentication, enabling controlled acc
     - OAuth 2.0 is a standard authorization framework allowing third-party applications to access your EasyParcel resources without exposing sensitive credentials.
   
 2. **Steps to Obtain OAuth Token**:
-    - [Learn about OAuth Authentication](3.OAuth%20Authentication)
-    - [Getting OAuth Access Token](3.OAuth%20Authentication/2.OAuth.md)
+    - [Learn about OAuth Authentication](#oauth-authentications)
+    - [Getting OAuth Access Token](#get-oauth-access-token)
 
 
 ## **API Functions & Features**
@@ -64,29 +64,29 @@ The EasyParcel API offers a wide array of functionalities divided into categorie
 ### **Standard Features**:
 - **Get Shipment Quotation**  
   Get a detailed quote for your shipment, including rates, delivery times, and courier options.  
-  [Read more](/5.API%20endpoint/%201.Shipping/1.Get%20Shipment%20Quotation.md)
+  [Read more](#shipment-quotations)
 
 - **Get Coupon List**  
   Fetch all available courier according to the country.
-  [Read more](/5.API%20endpoint/%201.Shipping/2.Get%20Coupon%20List.md)
+  [Read more](#coupon-feature)
 
 - **Submit Shipment Orders**  
   Create and submit shipment orders for processing.  
-  [Read more](/5.API%20endpoint/%201.Shipping/3.Submit%20Orders.md)
+  [Read more](#submit-orders)
 
 ### **OnDemand Features**:
 - **Get OnDemand Quotation**  
   Get an on-demand quotation based on specific criteria.  
-  [Read more](/5.API%20endpoint/%202.Ondemand/1.Get%20Ondemand%20Quotation.md)
+  [Read more](#ondmeand-quotation)
 
 - **Submit OnDemand Order**  
   Create an on-demand shipment order.  
-  [Read more](/5.API%20endpoint/%202.Ondemand/2.Submit%20Ondemand%20Order.md)
+  [Read more](#ondemand-order-submission)
 
 ### **Wallet Features**:
 - **Get Wallet Balance**  
   Check your current wallet balance for API transactions.  
-  [Read more](/5.API%20endpoint/3.Get%20Credit%20Wallet.md)
+  [Read more](#wallet-balance)
 
 
 #### **Contact Us**
