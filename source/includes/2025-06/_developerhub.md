@@ -229,7 +229,7 @@ Access tokens are credentials that allow your application to access Easy Parcel'
 
 <img width="567" alt="image" src="https://github.com/user-attachments/assets/1ca43169-d484-4704-bb40-deceb552e53b" />
 
-2.)Follow [the Steps to get Oauth access token](../3.OAuth%20Authentication/1.%20oauth%20authentication%20guide.md)
+2.)Follow [the Steps to get Oauth access token](#get-oauth-access-token)
 
 
 
