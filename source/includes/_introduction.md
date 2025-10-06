@@ -17,17 +17,8 @@ The **EasyParcel API** enables you to manage shipping, obtain quotations, track 
 ## **Setup Flow**
 
 Below is a visual guide to set up flow:
-```mermaid
-flowchart TD
-    A[Sign up Developers Hub Account] --> B[Create App]
-    B --> C[Create Sandbox Account]
-    C --> D[Top Up Sandbox]
-    D --> E[Get OAuth Credentials]
-    E --> F[Try Postman Collection]
-    F --> G[Start Integration]
-    G --> H[Webhook Setup]
-    H --> I((Integration Ready))
-```
+<img width="576" height="1076" alt="image" src="https://github.com/user-attachments/assets/89d588d1-1d17-4b17-baed-f418789ad916" />
+
 
 
 ## **Getting Started**
