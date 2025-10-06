@@ -37,7 +37,8 @@ refer here for [Sandbox Limitations](#sandbox-limitations)
 
 #### 1. Access Developer Portal
 **URL:** [https://api.easyparcel.com](https://api.easyparcel.com)  
-<img width="1108" height="660" alt="image" src="https://github.com/user-attachments/assets/ca46e08f-925b-4bb4-aa2d-f3333b318795" />
+<img width="845" height="635" alt="image" src="https://github.com/user-attachments/assets/287ae19b-3d27-4751-b2fb-96f58f9c89ae" />
+
 
 
 
