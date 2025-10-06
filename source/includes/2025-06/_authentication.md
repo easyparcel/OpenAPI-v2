@@ -118,9 +118,9 @@ https://api.easyparcel.com/oauth/token
 Header
 authorization - Basic [encoded base:64 format (app_client_id:app_secret)]
 
-1.)get the string for app_client_id and app_secret from developer hub <br>
-2.)Encode both client_id and app_secret into 64 format <br>
-3.)Use encoded value and pass back into Basic<br> 
+-> get the string for app_client_id and app_secret from developer hub <br> ->
+Encode both client_id and app_secret into 64 format <br> ->
+Use encoded value and pass back into Basic<br> 
 
 | Requested Parameters | Type   | Required                                   | Details                                                                                                                                 | Remarks                      |
 | -------------------- | ------ | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
