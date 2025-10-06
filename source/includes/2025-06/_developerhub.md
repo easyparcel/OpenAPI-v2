@@ -24,18 +24,6 @@ Whether you're developing a plugin, connecting your e-commerce store, or buildin
 
 
 
-## Why Register on the Developer Hub?
-
-The EasyParcel Developer Hub is the central portal for developers who want to integrate with our API. Registration is required to:
-
-- Create and manage OAuth applications
-- Generate authentication credentials (client ID and client secret)
-- Access API documentation and resources
-- Test API endpoints in a sandbox environment
-- Monitor API usage and performance
-
-
-
 ## Registering on the EasyParcel Developer Hub
 
 This guide provides step-by-step instructions for registering on the EasyParcel Developer Hub and setting up your application to access the EasyParcel API.
