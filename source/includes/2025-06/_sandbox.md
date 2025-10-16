@@ -40,7 +40,7 @@ refer here for [Sandbox Limitations](#sandbox-limitations)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/287ae19b-3d27-4751-b2fb-96f58f9c89ae"
        alt="image"
-       style="max-width: 120%; height: auto;" />
+       style="max-width: 105%; height: auto;" />
 </p>
 
 
@@ -50,7 +50,7 @@ refer here for [Sandbox Limitations](#sandbox-limitations)
 #### 2. Select Application
 **Action:** Choose your registered application from the dashboard  
 <p align="center">
-<img alt="image" src="https://github.com/user-attachments/assets/b30ce194-3b8d-4d90-9c2f-eb885bccb5ab" alt="image" style="max-width: 120%; height: auto;" />
+<img alt="image" src="https://github.com/user-attachments/assets/b30ce194-3b8d-4d90-9c2f-eb885bccb5ab" alt="image" style="max-width: 105%; height: auto;" />
 </p>
 
 
