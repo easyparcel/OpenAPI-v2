@@ -65,6 +65,7 @@ refer here for [Sandbox Limitations](#sandbox-limitations)
 **Required:**  
 ✅ Sandbox environment selection  
 ✅ Connection name  
+<p align="center">
 <img width="2560" height="714" alt="image" src="https://github.com/user-attachments/assets/c8cb387a-1f2e-4cdc-b658-3bc1010938cc" alt="image" style="max-width: 105%; height: auto;" />
 </p>
 
@@ -72,36 +73,42 @@ refer here for [Sandbox Limitations](#sandbox-limitations)
 #### 5. Prompt to login
 **Required:**  
 Login using developers account credentials
-<img width="1232" height="1276" alt="image" src="https://github.com/user-attachments/assets/f97d0d40-6efd-4d97-a723-544e5cf70144" />
-
+<p align="center">
+<img width="1232" height="1276" alt="image" src="https://github.com/user-attachments/assets/f97d0d40-6efd-4d97-a723-544e5cf70144" alt="image" style="max-width: 105%; height: auto;"/>
+</p>
 
 
 #### 6. Allow access request
 **Required:**  
 Allow the application request to access account credentials and permisions
-<img width="1230" height="816" alt="image" src="https://github.com/user-attachments/assets/975ef6b7-f38d-403c-84cb-67e5b9ba88a5" />
-
+<p align="center">
+<img width="1230" height="816" alt="image" src="https://github.com/user-attachments/assets/975ef6b7-f38d-403c-84cb-67e5b9ba88a5" alt="image" style="max-width: 105%; height: auto;"/>
+</p>
 
 
 #### 7. Verify Successful Setup
 **Confirmation:** Look for active status indicator  
-<img width="2556" height="706" alt="image" src="https://github.com/user-attachments/assets/a128d3be-45f8-4827-a054-7e8f151dfdcc" />
-
+<p align="center">
+<img width="2556" height="706" alt="image" src="https://github.com/user-attachments/assets/a128d3be-45f8-4827-a054-7e8f151dfdcc" alt="image" style="max-width: 105%; height: auto;"/>
+</p>
 
 
 ## Top up demo account
 
-1. In the Application settings, connection list, select **Top Up**  
-<img width="2538" height="746" alt="image" src="https://github.com/user-attachments/assets/9d5e7d15-67f0-41fc-a165-fc92bd99c947" />
+1. In the Application settings, connection list, select **Top Up**
+<p align="center">
+<img width="2538" height="746" alt="image" src="https://github.com/user-attachments/assets/9d5e7d15-67f0-41fc-a165-fc92bd99c947" alt="image" style="max-width: 105%; height: auto;"/>
+</p>
 
+3. Top up the desired amount
+<p align="center">
+<img width="2560" height="900" alt="image" src="https://github.com/user-attachments/assets/ab458b36-6b43-4b87-9f06-d13a6367ae69" alt="image" style="max-width: 105%; height: auto;"/>
+</p>
 
-2. Top up the desired amount  
-<img width="2560" height="900" alt="image" src="https://github.com/user-attachments/assets/ab458b36-6b43-4b87-9f06-d13a6367ae69" />
-
-
-3. Top up successful  
-<img width="2560" height="744" alt="image" src="https://github.com/user-attachments/assets/5212a32d-903a-486a-a766-fc562a701e6c" />
-
+5. Top up successful
+<p align="center">
+<img width="2560" height="744" alt="image" src="https://github.com/user-attachments/assets/5212a32d-903a-486a-a766-fc562a701e6c" alt="image" style="max-width: 105%; height: auto;"/>
+</p>
 
 
 ## Sandbox Limitations
