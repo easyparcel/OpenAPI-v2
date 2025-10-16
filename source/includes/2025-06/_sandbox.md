@@ -56,16 +56,17 @@ refer here for [Sandbox Limitations](#sandbox-limitations)
 
 #### 3. Navigate to Connections
 **Location:** Settings → Connection Management  
-<img width="1192" height="592" alt="image" src="https://github.com/user-attachments/assets/2a72d5f9-a706-423f-845c-4a5e6719898e" />
-
+<p align="center">
+<img width="1192" height="592" alt="image" src="https://github.com/user-attachments/assets/2a72d5f9-a706-423f-845c-4a5e6719898e" alt="image" style="max-width: 105%; height: auto;" />
+</p>
 
 
 #### 4. Add New Connection
 **Required:**  
 ✅ Sandbox environment selection  
 ✅ Connection name  
-<img width="2560" height="714" alt="image" src="https://github.com/user-attachments/assets/c8cb387a-1f2e-4cdc-b658-3bc1010938cc" />
-
+<img width="2560" height="714" alt="image" src="https://github.com/user-attachments/assets/c8cb387a-1f2e-4cdc-b658-3bc1010938cc" alt="image" style="max-width: 105%; height: auto;" />
+</p>
 
 
 #### 5. Prompt to login
