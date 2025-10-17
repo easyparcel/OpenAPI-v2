@@ -11,11 +11,11 @@ Error Code | Meaning
 ---------- | -------
 400 | Bad Request -- Your request is invalid.
 401 | Unauthorized -- Invalid Oauth 2.0 access token.
-403 | Forbidden -- The kitten requested is hidden for administrators only.
-404 | Not Found -- The specified kitten could not be found.
+403 | Forbidden -- The requested is hidden for administrators only.
+404 | Not Found -- The specified endpoint found.
 405 | Method Not Allowed -- You tried to access a kitten with an invalid method.
 406 | Not Acceptable -- You requested a format that isn't json.
 410 | Gone -- The kitten requested has been removed from our servers.
-429 | Too Many Requests -- You're requesting too many kittens! Slow down!
+429 | Too Many Requests -- You've number of request has reached it's limit.
 500 | Internal Server Error -- We had a problem with our server. Try again later.
 503 | Service Unavailable -- We're temporarily offline for maintenance. Please try again later.
