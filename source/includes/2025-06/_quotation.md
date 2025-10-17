@@ -32,15 +32,12 @@ headers = {
 }
 ```
 
-EasyParcel uses API keys to allow access to the API. You can register a new API key at our [developer portal](https://developer.easyparcel.com).
+EasyParcel uses Oauth 2.0  to allow access to the API. You can register a new Oauth 2.0 access at our [developer portal](https://developer.easyparcel.com).
 
-The API expects the API key to be included in all API requests to the server in a header that looks like the following:
+The API expects the Oauth 2.0 to be included in all API requests to the server in a header that looks like the following:
 
 `Authorization: Bearer YOUR_ACCESS_TOKEN`
 
-<aside class="notice">
-You must replace <code>YOUR_ACCESS_TOKEN</code> with your personal API key.
-</aside>
 
 ## HTTP Request (Quotation)
 
