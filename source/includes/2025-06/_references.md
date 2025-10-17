@@ -817,7 +817,7 @@ If you encounter authentication errors:
 
 ## Troubleshooting Guide
 
-### API Key Issues
+### Oauth 2.0 access token Issues
 - Ensure Oauth 2.0 access token is not expired
 - Verify Oauth 2.0 access token is correctly included in the authorization header
 - Check if your account has the necessary permissions
