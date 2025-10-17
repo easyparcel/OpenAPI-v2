@@ -484,7 +484,7 @@ Code | Meaning
 ---- | -------
 200 | OK -- Request successful (check individual data status)
 400 | Bad Request -- Invalid parameters
-401 | Unauthorized -- Invalid API key
+401 | Unauthorized -- Invalid Oauth 2.0 access token
 404 | Not Found -- Endpoint not found
 429 | Too Many Requests -- Rate limit exceeded
 500 | Internal Server Error -- Server error
