@@ -48,7 +48,7 @@ EasyParcel uses **OAuth 2.0** for secure authentication, enabling controlled acc
     - [Getting OAuth Access Token](#get-oauth-access-token)
 
 
-## **API Functions & Features**
+## **API Functions & Feature**
 
 The EasyParcel API offers a wide array of functionalities divided into categories. Below are the key features available:
 
