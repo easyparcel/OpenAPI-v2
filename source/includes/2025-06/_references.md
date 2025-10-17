@@ -279,7 +279,7 @@ This document outlines the standard formats for requests and responses when work
 
 1. All requests must be sent as HTTP POST requests
 2. Content-Type header should be set to `application/json`
-3. Authentication is handled via API key in the headers
+3. Authentication is handled via Oauth 2.0 access token in the headers
 4. All request payloads should be valid JSON objects
 5. DateTime values should use the format: YYYY-MM-DD or YYYY-MM-DD HH:MM:SS
 
@@ -483,7 +483,7 @@ Simple parameter format for filtering and pagination:
 ```json
 {
   "status_code": 401,
-  "message": "Invalid API key",
+  "message": "Invalid Oauth 2.0 access token",
   "data": null
 }
 ```
@@ -573,9 +573,9 @@ When authentication fails, you'll receive a response in this format:
 
 | Error Name       | Description                                         | Recommended Action                                  |
 |------------------|-----------------------------------------------------|-----------------------------------------------------|
-| invalid_token    | The API key is invalid or expired                   | Verify your API key and request a new one if needed |
-| missing_token    | No API key was provided in the request              | Ensure API key is included in the request header    |
-| insufficient_scope| The API key doesn't have permission for this action | Request appropriate permissions for your API key    |
+| invalid_token    | The Oauth 2.0 access token is invalid or expired                   | Verify your Oauth 2.0 access token and request a new one if needed |
+| missing_token    | No Oauth 2.0 access token was provided in the request              | Ensure Oauth 2.0 access token is included in the request header    |
+| insufficient_scope| The Oauth 2.0 access token doesn't have permission for this action | Request appropriate permissions for your Oauth 2.0 access token    |
 
 ## Validation Errors
 
@@ -797,10 +797,10 @@ function handleBatchResponse(response) {
 
 If you encounter authentication errors:
 
-1. Verify your API key is correct
-2. Check if your API key has expired
-3. Request a new API key if necessary
-4. Ensure your system securely stores the API key
+1. Verify your Oauth 2.0 access token is correct
+2. Check if your Oauth 2.0 access token has expired
+3. Request a new Oauth 2.0 access token if necessary
+4. Ensure your system securely stores the Oauth 2.0 access token
 5. Implement automatic token refresh if supported
 
 ## Common HTTP Status Codes
@@ -818,8 +818,8 @@ If you encounter authentication errors:
 ## Troubleshooting Guide
 
 ### API Key Issues
-- Ensure API key is not expired
-- Verify API key is correctly included in the authorization header
+- Ensure Oauth 2.0 access token is not expired
+- Verify Oauth 2.0 access token is correctly included in the authorization header
 - Check if your account has the necessary permissions
 
 ### Invalid Input
