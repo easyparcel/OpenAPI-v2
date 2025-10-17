@@ -9,7 +9,7 @@ This endpoint allows users to retrieve their current wallet balance and free cre
 
 ## Request Wallet Parameters
 
-This endpoint does not require any request parameters. Authentication is handled through your API key in the headers.
+This endpoint does not require any request parameters. Authentication is handled through Oauth 2.0 access token.
 
 ### Request Sample for Wallet
 
