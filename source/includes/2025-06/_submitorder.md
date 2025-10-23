@@ -533,7 +533,6 @@ This feature enables users to submit shipment orders. Users are required to fill
 | height              | double    | Height of the shipment                    |
 | length              | double    | Length of the shipment                    |
 | width               | double    | Width of the shipment                     |
-| price               | string    | Price of this shipment                    |
 | pricing_breakdown   | object    | Detailed pricing breakdown                |
 | sender              | object    | Sender details                            |
 | receiver            | object    | Receiver details                          |
@@ -545,10 +544,11 @@ This feature enables users to submit shipment orders. Users are required to fill
 | Parameter           | Type      | Description                               |
 |---------------------|-----------|-------------------------------------------|
 | currency_code       | string    | Currency used for the shipment            |
-| total_amount        | string    | Total cost of the shipment                |
+| total_order_amount        | string    | Total cost of the shipment                |
 | shipment_price      | string    | Base price of the shipment                |
-| tax_amount          | string    | Tax amount                                |
+| total_tax_amount          | string    | Tax amount                                |
 | total_features_price| string    | Total price for additional features       |
+| coupon_redeemed| string    | Total amonut deducted using coupon_redeemed       |
 
 ### Features
 
