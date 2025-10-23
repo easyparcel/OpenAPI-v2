@@ -69,14 +69,22 @@ After verifying your email and logging in, you'll need to complete your develope
 
 #### Contact Information
 EasyParcel will use this information to contact you about your account.
-- **Contact Email*** - Primary email for account communications
-- **Phone Number*** - Contact phone with country code
-- **Address 1*** - Primary address
-- **Address 2** - Additional address information (optional)
-- **City*** - Your city
-- **ZIP / Postal Code*** - Your postal code
-- **State / Territory*** - Your state or territory
-- **Country*** - Your country
+
+ **Contact Email*** - Primary email for account communications
+ 
+ **Phone Number*** - Contact phone with country code
+ 
+ **Address 1*** - Primary address
+ 
+ **Address 2** - Additional address information (optional)
+ 
+ **City*** - Your city
+ 
+ **ZIP / Postal Code*** - Your postal code
+ 
+ **State / Territory*** - Your state or territory
+ 
+ **Country*** - Your country
   
 <p align="center">  
 <img alt="image" style="max-width: 105%; height: auto;" src="https://github.com/user-attachments/assets/ac2be59f-0f9e-4190-99c2-8438d80718a4" />
@@ -85,8 +93,10 @@ EasyParcel will use this information to contact you about your account.
 
 #### Emergency Developer Contact Information
 These details are used to communicate critical technical information to developers who maintain apps.
-- **Emergency Developer Email*** - Email for urgent technical communications
-- **Emergency Developer Phone Number*** - Phone for urgent technical communications
+
+ **Emergency Developer Email*** - Email for urgent technical communications
+  
+ **Emergency Developer Phone Number*** - Phone for urgent technical communications
 
 Fields marked with an asterisk (*) are required.
 
