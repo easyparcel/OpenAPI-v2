@@ -91,7 +91,7 @@ EasyParcel will use this information to contact you about your account.
 </p>
 
 
-#### Emergency Developer Contact Information
+### Emergency Developer Contact Information
 These details are used to communicate critical technical information to developers who maintain apps.
 
  **Emergency Developer Email*** - Email for urgent technical communications
