@@ -80,7 +80,8 @@ EasyParcel will use this information to contact you about your account.
   
 <p align="center">  
 <img alt="image" style="max-width: 105%; height: auto;" src="https://github.com/user-attachments/assets/ac2be59f-0f9e-4190-99c2-8438d80718a4" />
- </p>
+</p>
+
 
 #### Emergency Developer Contact Information
 These details are used to communicate critical technical information to developers who maintain apps.
