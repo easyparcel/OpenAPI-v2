@@ -134,9 +134,13 @@ The **Redirect URI** (also known as callback URL) is a crucial component of the 
 A redirect URI is the URL in your application where Easy Parcel will send users after they successfully authenticate. It's essentially the "return address" for the OAuth flow.
 
 **Why is it required?**
+
 - **Security**: Ensures that authorization codes are only sent to pre-registered, trusted URLs
+  
 - **OAuth Compliance**: Required by OAuth 2.0 specification to prevent authorization code interception attacks
+  
 - **User Experience**: Provides a seamless flow back to your application after authentication
+  
 
 **How to configure your Redirect URI:**
 
