@@ -12,7 +12,6 @@ toc_footers:
 
 includes:
   - introduction.md 
-  - 2025-06/_introduction.md
   - 2025-06/_developerhub.md
   - 2025-06/_sandbox.md
   - 2025-06/_authentication.md
