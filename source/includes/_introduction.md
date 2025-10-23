@@ -17,8 +17,9 @@ The **EasyParcel API** enables you to manage shipping, obtain quotations, track 
 ## **Setup Flow**
 
 Below is a visual guide to set up flow:
-<img width="576" height="1076" alt="image" src="https://github.com/user-attachments/assets/89d588d1-1d17-4b17-baed-f418789ad916" />
-
+<p align="center">
+<img alt="image" style="max-width: 105%; height: auto;" src="https://github.com/user-attachments/assets/89d588d1-1d17-4b17-baed-f418789ad916" />
+</p>
 
 
 ## **Getting Started**
