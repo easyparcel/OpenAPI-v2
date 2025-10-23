@@ -13,16 +13,17 @@ This feature enables users to submit shipment orders. Users are required to fill
 
 ```json
 {
-    
-   "coupon_codes" :["5f710742-c649-45b7-83d6-af733651f892"],
-   "shipment": [
+    "coupon_codes": [
+        "5f710742-c649-45b7-83d6-af733651f892"
+    ],
+    "shipment": [
         {
-                "service_id": "EP-CS09C",
-                "collection_date": "2025-05-19",
-                "weight": 2.5,
-                "height": 30,
-                "length": 40,
-                "width": 20,
+            "service_id": "EP-CS09C",
+            "collection_date": "2025-05-19",
+            "weight": 2.5,
+            "height": 30,
+            "length": 40,
+            "width": 20,
             "item": [
                 {
                     "content": "Electronics",
@@ -79,12 +80,12 @@ This feature enables users to submit shipment orders. Users are required to fill
             }
         },
         {
-                "service_id": "EP-CS09C",
-                "collection_date": "2025-05-19",
-                "weight": 2.5,
-                "height": 30,
-                "length": 40,
-                "width": 20,
+            "service_id": "EP-CS09C",
+            "collection_date": "2025-05-19",
+            "weight": 2.5,
+            "height": 30,
+            "length": 40,
+            "width": 20,
             "item": [
                 {
                     "content": "Electronics",
@@ -140,7 +141,6 @@ This feature enables users to submit shipment orders. Users are required to fill
                 "awb_branding": false
             }
         }
- 
     ]
 }
 ```
