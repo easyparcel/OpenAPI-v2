@@ -6,7 +6,28 @@ This endpoint allows users to retrieve a list of shipments with optional filteri
 
 `POST https://api.easyparcel.com/open_api/2025-06/shipment/list`
 
+
 ## Listing Request
+
+## Pagination
+
+This API uses cursor-based pagination with the `before_shipment_number` parameter. To retrieve the next page of results:
+
+1. Make your initial request with desired filters and `limit`
+2. Note the `shipment_number` of the last shipment in the response
+3. Use that shipment number as `before_shipment_number` in your next request to get older shipments
+
+**Example:**
+```json
+// First request
+{ "limit": 10 }
+
+// Next page request (using last shipment_number from previous response)
+{ "limit": 10, "before_shipment_number": "ES-2504-3WYYP" }
+```
+
+Since results are sorted newest first, each subsequent request returns the next set of older shipments.
+
 
 ### Request Sample
 
