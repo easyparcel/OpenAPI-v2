@@ -236,7 +236,7 @@ This endpoint allows users to retrieve a list of shipments with optional filteri
 |-------------|------------------------------------------------------|
 | 200         | Successful request                                   |
 | 400         | Bad request (missing or invalid parameters)          |
-| 401         | Unauthorized (invalid API key or authentication)     |
+| 401         | Unauthorized (invalid authentication)                |
 | 404         | Not found (no shipments matching the criteria)       |
 | 500         | Server error                                         |
 
