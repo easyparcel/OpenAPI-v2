@@ -140,26 +140,26 @@ A redirect URI is the URL in your application where Easy Parcel will send users 
 
 **How to configure your Redirect URI:**
 
- **For Web Applications:**
-   ```
-   https://yourdomain.com/auth/callback
+**For Web Applications:**
 
-   https://yourapp.com/oauth/easyparcel/callback
-   ```
+```
+https://yourdomain.com/auth/callback
+https://yourapp.com/oauth/easyparcel/callback
+```
 
- **For Local Development:**
-   ```
-   http://localhost:3000/auth/callback
+**For Local Development:**
 
-   http://127.0.0.1:8080/callback
-   ```
+```
+http://localhost:3000/auth/callback
+http://127.0.0.1:8080/callback
+```
 
- **For Mobile Applications:**
-   ```
-   yourapp://oauth/callback
+**For Mobile Applications:**
 
-   com.yourcompany.yourapp://auth
-   ```
+```
+yourapp://oauth/callback
+com.yourcompany.yourapp://auth
+```
 
 
 ## Once create the app
