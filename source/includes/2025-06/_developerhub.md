@@ -156,9 +156,12 @@ A redirect URI is the URL in your application where Easy Parcel will send users 
 
 ### Access Token Expiry Configuration
 Easy Parcel allows you to configure the expiry time for access tokens based on your application's security requirements and user experience needs.
+
 <p align="center">
 <img  alt="image" style="max-width: 105%; height: auto;"  src="https://github.com/user-attachments/assets/342f75f4-db5e-4dae-aedd-fda5db2f561e" />
 </p>
+
+
 **What are Access Tokens?**
 Access tokens are credentials that allow your application to access Easy Parcel's API on behalf of authenticated users. They have a limited lifespan for security purposes.
 
