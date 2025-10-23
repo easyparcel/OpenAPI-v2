@@ -114,7 +114,7 @@ If an invalid country code is provided, the API will return an error response:
 |-------------|-------------------------------------------------|
 | 200         | Successful request                              |
 | 400         | Bad request (invalid country code)              |
-| 401         | Unauthorized (invalid API key or authentication)|
+| 401         | Unauthorized (invalid authentication)|
 | 500         | Server error                                    |
 
 ## Usage Notes
