@@ -244,7 +244,7 @@ This feature enables users to submit shipment orders. Users are required to fill
 
 
 
-## Subit Order Response
+## Sumbit Order Response
 
 ### Successful Response Example
 ```json
